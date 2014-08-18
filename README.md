@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Repo datasciencecoursera for use in Class assigment
+Repo datasciencecoursera for use in Class assignment
